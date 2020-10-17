@@ -5,4 +5,4 @@
 - VisualStudio2019
 
 # 使用フレームワーク
-- .NETFramework
+- .NETFramework4.7.2
