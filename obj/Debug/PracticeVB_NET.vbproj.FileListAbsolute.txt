@@ -1,0 +1,12 @@
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\bin\Debug\PracticeVB_NET.exe.config
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\bin\Debug\PracticeVB_NET.exe
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\bin\Debug\PracticeVB_NET.pdb
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\bin\Debug\PracticeVB_NET.xml
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.vbprojAssemblyReference.cache
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.Resources.resources
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.vbproj.GenerateResource.cache
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.vbproj.CoreCompileInputs.cache
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.exe
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.xml
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.pdb
+C:\Users\den49\OneDrive\ドキュメント\プライベート\練習\PracticeVB_NET\obj\Debug\PracticeVB_NET.Form1.resources
